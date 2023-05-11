@@ -20,7 +20,7 @@ namespace CentralDeUsuarios.Infra.Data.Contexts
         /// <param name="optionsBuilder"></param>
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Data Source=.,1433;Initial Catalog=DB_CentralDeUsuários;Persist Security Info=True;User ID=sa;Password=P@ssw0rd;Pooling=False");
+            optionsBuilder.UseSqlServer(@"Data Source=.,1433;Initial Catalog=DB_CentralDeUsuários;Persist Security Info=True;User ID=servico;Password=P@ssw0rd;Pooling=False;TrustServerCertificate=True");
         }
 
         /// <summary>
