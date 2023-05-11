@@ -1,0 +1,12 @@
+F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain.Core\bin\Debug\net7.0\CentralDeUsuarios.Domain.Core.deps.json
+F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain.Core\bin\Debug\net7.0\CentralDeUsuarios.Domain.Core.dll
+F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain.Core\bin\Debug\net7.0\CentralDeUsuarios.Domain.Core.pdb
+F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain.Core\obj\Debug\net7.0\CentralDeUsuarios.Domain.Core.csproj.AssemblyReference.cache
+F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain.Core\obj\Debug\net7.0\CentralDeUsuarios.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain.Core\obj\Debug\net7.0\CentralDeUsuarios.Domain.Core.AssemblyInfoInputs.cache
+F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain.Core\obj\Debug\net7.0\CentralDeUsuarios.Domain.Core.AssemblyInfo.cs
+F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain.Core\obj\Debug\net7.0\CentralDeUsuarios.Domain.Core.csproj.CoreCompileInputs.cache
+F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain.Core\obj\Debug\net7.0\CentralDeUsuarios.Domain.Core.dll
+F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain.Core\obj\Debug\net7.0\refint\CentralDeUsuarios.Domain.Core.dll
+F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain.Core\obj\Debug\net7.0\CentralDeUsuarios.Domain.Core.pdb
+F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain.Core\obj\Debug\net7.0\ref\CentralDeUsuarios.Domain.Core.dll

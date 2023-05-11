@@ -1,0 +1,5 @@
+F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain\obj\Debug\net7.0\CentralDeUsuarios.Domain.csproj.AssemblyReference.cache
+F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain\obj\Debug\net7.0\CentralDeUsuarios.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain\obj\Debug\net7.0\CentralDeUsuarios.Domain.AssemblyInfoInputs.cache
+F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain\obj\Debug\net7.0\CentralDeUsuarios.Domain.AssemblyInfo.cs
+F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain\obj\Debug\net7.0\CentralDeUsuarios.Domain.csproj.CoreCompileInputs.cache
