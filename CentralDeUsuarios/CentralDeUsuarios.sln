@@ -3,7 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralDeUsuarios.Services.Api", "CentralDeUsuarios.Services.Api\CentralDeUsuarios.Services.Api.csproj", "{E6E0DB9A-AD0B-4965-B212-CC994D43514E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CentralDeUsuarios.Services.Api", "CentralDeUsuarios.Services.Api\CentralDeUsuarios.Services.Api.csproj", "{E6E0DB9A-AD0B-4965-B212-CC994D43514E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API REST", "API REST", "{6F8986E6-2958-4BFC-AD11-4884683AFA4E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DDD - Domain Driven Design", "DDD - Domain Driven Design", "{72399057-75FC-4698-BE64-04A36746556A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Application", "1 - Application", "{8CD7C96E-8AC7-4965-9FFE-4AC4AA6ECB1D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Domain", "2 - Domain", "{813F3C8A-FF2A-47C6-BEFB-610BF65370E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - InfraStructure", "3 - InfraStructure", "{8B2608B5-4EBF-465A-A2BB-90C40A09FA69}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TDD - Test Driven Development", "TDD - Test Driven Development", "{8E26576D-3DDA-4FF1-A248-783AB803340F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Testes de Integracao", "1 - Testes de Integracao", "{93781482-F71D-442B-99DB-835522B70DD7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Teste Unitarios", "2 - Teste Unitarios", "{436C95CE-3B60-4398-B5A3-AF4BBBB3CB96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,6 +34,15 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E6E0DB9A-AD0B-4965-B212-CC994D43514E} = {6F8986E6-2958-4BFC-AD11-4884683AFA4E}
+		{8CD7C96E-8AC7-4965-9FFE-4AC4AA6ECB1D} = {72399057-75FC-4698-BE64-04A36746556A}
+		{813F3C8A-FF2A-47C6-BEFB-610BF65370E9} = {72399057-75FC-4698-BE64-04A36746556A}
+		{8B2608B5-4EBF-465A-A2BB-90C40A09FA69} = {72399057-75FC-4698-BE64-04A36746556A}
+		{8E26576D-3DDA-4FF1-A248-783AB803340F} = {72399057-75FC-4698-BE64-04A36746556A}
+		{93781482-F71D-442B-99DB-835522B70DD7} = {8E26576D-3DDA-4FF1-A248-783AB803340F}
+		{436C95CE-3B60-4398-B5A3-AF4BBBB3CB96} = {8E26576D-3DDA-4FF1-A248-783AB803340F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {670E90EA-B437-4644-B7B7-A178630E1DAE}
