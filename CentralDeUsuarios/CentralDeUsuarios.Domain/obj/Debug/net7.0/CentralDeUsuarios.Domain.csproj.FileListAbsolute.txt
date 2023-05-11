@@ -3,3 +3,13 @@ F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\Ce
 F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain\obj\Debug\net7.0\CentralDeUsuarios.Domain.AssemblyInfoInputs.cache
 F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain\obj\Debug\net7.0\CentralDeUsuarios.Domain.AssemblyInfo.cs
 F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain\obj\Debug\net7.0\CentralDeUsuarios.Domain.csproj.CoreCompileInputs.cache
+F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain\bin\Debug\net7.0\CentralDeUsuarios.Domain.deps.json
+F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain\bin\Debug\net7.0\CentralDeUsuarios.Domain.dll
+F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain\bin\Debug\net7.0\CentralDeUsuarios.Domain.pdb
+F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain\bin\Debug\net7.0\CentralDeUsuarios.Domain.Core.dll
+F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain\bin\Debug\net7.0\CentralDeUsuarios.Domain.Core.pdb
+F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain\obj\Debug\net7.0\CentralDeUsuarios.Domain.csproj.CopyComplete
+F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain\obj\Debug\net7.0\CentralDeUsuarios.Domain.dll
+F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain\obj\Debug\net7.0\refint\CentralDeUsuarios.Domain.dll
+F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain\obj\Debug\net7.0\CentralDeUsuarios.Domain.pdb
+F:\Documentos\Projetos\Projetos Avançados Net\CentralDeUsuarios.Services.Api\CentralDeUsuarios\CentralDeUsuarios.Domain\obj\Debug\net7.0\ref\CentralDeUsuarios.Domain.dll

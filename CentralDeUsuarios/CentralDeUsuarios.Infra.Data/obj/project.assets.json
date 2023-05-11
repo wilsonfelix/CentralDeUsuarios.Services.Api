@@ -46,6 +46,19 @@
           }
         }
       },
+      "FluentValidation/11.5.2": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Humanizer.Core/2.14.1": {
         "type": "package",
         "compile": {
@@ -1254,6 +1267,32 @@
             "rid": "win"
           }
         }
+      },
+      "CentralDeUsuarios.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CentralDeUsuarios.Domain.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CentralDeUsuarios.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CentralDeUsuarios.Domain.dll": {}
+        }
+      },
+      "CentralDeUsuarios.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "FluentValidation": "11.5.2"
+        },
+        "compile": {
+          "bin/placeholder/CentralDeUsuarios.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CentralDeUsuarios.Domain.Core.dll": {}
+        }
       }
     }
   },
@@ -1294,6 +1333,29 @@
         "azureicon.png",
         "lib/netstandard2.0/Azure.Identity.dll",
         "lib/netstandard2.0/Azure.Identity.xml"
+      ]
+    },
+    "FluentValidation/11.5.2": {
+      "sha512": "kj/hW/iusp2zq1Vt1YPLgDj6UG0DhoJXGkLwjLwm3j7vUtRF8DVA5vHJfItG3BxDjLWJUR2pvw8fK7rnuysZNA==",
+      "type": "package",
+      "path": "fluentvalidation/11.5.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.11.5.2.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/net6.0/FluentValidation.dll",
+        "lib/net6.0/FluentValidation.xml",
+        "lib/net7.0/FluentValidation.dll",
+        "lib/net7.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
       ]
     },
     "Humanizer.Core/2.14.1": {
@@ -3738,10 +3800,21 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "CentralDeUsuarios.Domain/1.0.0": {
+      "type": "project",
+      "path": "../CentralDeUsuarios.Domain/CentralDeUsuarios.Domain.csproj",
+      "msbuildProject": "../CentralDeUsuarios.Domain/CentralDeUsuarios.Domain.csproj"
+    },
+    "CentralDeUsuarios.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../CentralDeUsuarios.Domain.Core/CentralDeUsuarios.Domain.Core.csproj",
+      "msbuildProject": "../CentralDeUsuarios.Domain.Core/CentralDeUsuarios.Domain.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "CentralDeUsuarios.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.5",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.5",
@@ -3781,7 +3854,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\Documentos\\Projetos\\Projetos Avançados Net\\CentralDeUsuarios.Services.Api\\CentralDeUsuarios\\CentralDeUsuarios.Domain\\CentralDeUsuarios.Domain.csproj": {
+              "projectPath": "F:\\Documentos\\Projetos\\Projetos Avançados Net\\CentralDeUsuarios.Services.Api\\CentralDeUsuarios\\CentralDeUsuarios.Domain\\CentralDeUsuarios.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

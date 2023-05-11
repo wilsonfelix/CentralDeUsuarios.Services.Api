@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "0eqGXCDLLvhtHX7xGasEDIoB8LeINP0Y4wk50FfBoAsM2ZPnJJEzUEt9cTLtGsqoM48i4wzkOVfMk1EdJOiHlQ==",
+  "dgSpecHash": "95zE+xUJy8ZCjTYFya/XHrIFov9xGBxWMAH0jmYPxO78zw687e9lQV+Bd3UDFoqgSo8Xkat3xtKOezzg8cwziQ==",
   "success": true,
   "projectFilePath": "F:\\Documentos\\Projetos\\Projetos Avançados Net\\CentralDeUsuarios.Services.Api\\CentralDeUsuarios\\CentralDeUsuarios.Infra.Data\\CentralDeUsuarios.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wilson\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Wilson\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\Wilson\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
     "C:\\Users\\Wilson\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Wilson\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Wilson\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

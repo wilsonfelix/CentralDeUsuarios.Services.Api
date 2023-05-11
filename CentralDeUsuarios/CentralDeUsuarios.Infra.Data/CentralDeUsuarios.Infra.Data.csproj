@@ -21,9 +21,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Contexts\" />
-    <Folder Include="Mapping\" />
     <Folder Include="Repositories\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CentralDeUsuarios.Domain\CentralDeUsuarios.Domain.csproj" />
   </ItemGroup>
 
 </Project>
