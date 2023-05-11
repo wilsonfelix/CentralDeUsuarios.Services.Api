@@ -29,7 +29,7 @@ namespace CentralDeUsuarios.Domain.Validations
             RuleFor(u => u.Email)
                 .NotEmpty().WithMessage("'{u}' é obrigatório, mas está vazio.")
                 .EmailAddress().WithMessage("'{u}' é inválido.");
-            RuleFor(u => u.Email).Equal(u => u.Email2)
+            RuleFor(u => u.Email2).Equal(u => u.Email)
                 .WithMessage("Os campos de email não são iguais, por favor verificar.");
             RuleFor(u => u.Senha)
                 .NotEmpty().WithMessage("'{u}' é requerido, mas está vazio.")
@@ -40,7 +40,7 @@ namespace CentralDeUsuarios.Domain.Validations
                 .Matches(@"[0-9]").WithMessage("'{u}' deve conter um ou mais números.")
                 .Matches(@"[][""!@$%^&*(){}:;<>,.?/+_=|'~\\-]").WithMessage("'{u}' deve conter um ou mais caracteres especiais.")
                 .Matches(@"^[^£# “”]*$").WithMessage("'{u}' não deve conter os seguintes caracteres £ # “” ou espaços.");
-            RuleFor(u => u.Senha).Equal(u => u.Senha2)
+            RuleFor(u => u.Senha2).Equal(u => u.Senha)
                 .WithMessage("Os campos de senha não são iguais, por favor verificar.");
 
 
