@@ -17,12 +17,9 @@ namespace CentralDeUsuarios.Infra.Data.Contexts
     public class SqlServerContextMigration : IDesignTimeDbContextFactory<SqlServerContext>
     {
         /// <summary>
-        /// Injetor de dependência para a classe SqlServerContext sempre que executarmos
-        /// o recurso do Migrations do EF
+        /// Classe para injeção de dependência executada toda vez 
+        /// que o Migrations for inicializado no projeto
         /// </summary>
-        /// <param name="args"></param>
-        /// <returns></returns>
-        /// <exception cref="NotImplementedException"></exception>
 
         public SqlServerContext CreateDbContext(string[] args)
         {
@@ -38,7 +35,7 @@ namespace CentralDeUsuarios.Infra.Data.Contexts
             #region Captura a connectionstring do arquivo appsettings.json
 
             var root = configurationBuider.Build();
-            var connectionString = root.GetSection("ConnectionString").GetSection("CentralDeUsuarios").Value;
+            var connectionString = root.GetSection("ConnectionStrings").GetSection("CentralDeUsuarios").Value;
 
             #endregion
 
