@@ -15,12 +15,13 @@ namespace CentralDeUsuarios.Infra.Data.Contexts
     public class SqlServerContext : DbContext
     {
         /// <summary>
-        /// Método para definir a connectionstring do projeto
+        /// Contrutor da classe
         /// </summary>
-        /// <param name="optionsBuilder"></param>
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        /// <param name="dbContextOptions">Classe do EF para opções de configuração do DbContext</param>
+        public SqlServerContext(DbContextOptions<SqlServerContext> dbContextOptions)
+            : base(dbContextOptions)
         {
-            optionsBuilder.UseSqlServer(@"Data Source=.,1433;Initial Catalog=DB_CentralDeUsuários;Persist Security Info=True;User ID=servico;Password=P@ssw0rd;Pooling=False;TrustServerCertificate=True");
+            
         }
 
         /// <summary>
